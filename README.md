@@ -38,7 +38,7 @@ It highlights multiple product features with smooth transitions, sticky scroll b
 
 ## 🚀 Deployment
 Deployed on **Vercel**:  
-👉 [Live Demo](https://your-deployed-link.vercel.app)
+👉 [Live Demo](https://showcase-ui-seven.vercel.app/)
 
 ---
 

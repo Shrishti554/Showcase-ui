@@ -46,7 +46,7 @@ Deployed on **Vercel**:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/feature-showcase.git
+git clone https://github.com/shrishti554/feature-showcase.git
 
 # 2. Navigate into project folder
 cd feature-showcase

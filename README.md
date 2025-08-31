@@ -49,7 +49,7 @@ Deployed on **Vercel**:
 git clone https://github.com/shrishti554/showcase-ui.git
 
 # 2. Navigate into project folder
-cd feature-showcase
+cd showcase-ui
 
 # 3. Install dependencies
 npm install
